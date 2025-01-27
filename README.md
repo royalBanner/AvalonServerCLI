@@ -1,4 +1,4 @@
-# Welcome to L2J Server CLI tool
+# Welcome to Avalon Server CLI tool
 
 ![](./src/main/resources/l2j-server-cli-logo_256x256.png)
 
